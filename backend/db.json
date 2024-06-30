@@ -25,16 +25,6 @@
       "name": "Jane Smith",
       "password": "securepassword",
       "email": "jane.smith@example.com"
-    },
-    {
-      "id": "3",
-      "email": "luthando@mail.com",
-      "password": "123456"
-    },
-    {
-      "id": "4",
-      "email": "thando@mail.com",
-      "password": "123456"
     }
   ],
   "login": [
@@ -44,13 +34,7 @@
       "password": "123456"
     },
     {
-      "id": "456",
-      "name": "Luthando Ncube",
-      "email": "thando@mail.com",
-      "password": "123456"
-    },
-    {
-      "id": "b59e",
+      "id": "dc58",
       "email": "thando@mail.com",
       "password": "123456"
     }
