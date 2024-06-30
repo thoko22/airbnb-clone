@@ -12,7 +12,48 @@
       "email": "luthando@mail.com",
       "phone": "1-770-736-8031-880"
     }
-    
+  ],
+  "register": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "password": "password123",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "password": "securepassword",
+      "email": "jane.smith@example.com"
+    },
+    {
+      "id": "3",
+      "email": "luthando@mail.com",
+      "password": "123456"
+    },
+    {
+      "id": "4",
+      "email": "thando@mail.com",
+      "password": "123456"
+    }
+  ],
+  "login": [
+    {
+      "id": "5",
+      "email": "thando@mail.com",
+      "password": "123456"
+    },
+    {
+      "id": "456",
+      "name": "Luthando Ncube",
+      "email": "thando@mail.com",
+      "password": "123456"
+    },
+    {
+      "id": "b59e",
+      "email": "thando@mail.com",
+      "password": "123456"
+    }
   ],
   "bookings": [
     {

@@ -9,17 +9,19 @@ POST http://localhost:5000/register
 content-type: application/json
 
 {
-    "name": "sample",
-    "time": "Wed, 21 Oct 2015 18:27:50 GMT"
+    "email": "thando@mail.com",
+      "password": "123456",
+      "id": "7"
 }
 ###
-POST http://localhost:5000/users/login
+POST http://localhost:5000/login
 content-type: application/json
 
   {
-      "email": "luthando@mail.com",
-      "password": "123456",
-      "id": "3"
+      "id": "456",
+      "name": "Luthando Ncube",
+      "email": "thando@mail.com",
+      "password": "123456"
 }
 ###
 
